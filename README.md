@@ -4,30 +4,49 @@
 
 </div>
 
-### 💻 About Me
-- 🌱 I’m currently exploring **UI/UX Design, Flutter, and Frontend Development**
-- 🎨 Certified Intermediate Graphic Designer from **Kemnaker RI**
-- 🤝 Active as a Secretary in **HIMSI Universitas Alma Ata**
-- ⚡ Fun fact: Passionate about combining clean visual design with structured code.
+### 🚀 About Me
+
+I'm an Information Systems student at Universitas Alma Ata[cite: 1] with an interest in building digital products from idea to implementation.
+
+My work sits at the intersection of:
+- **Product Development** — turning ideas and problems into practical digital solutions
+- **UI/UX Design** — designing intuitive interfaces with usability and user needs in mind (Figma)
+- **Frontend Development** — building and deploying web & mobile systems (HTML, CSS, Flutter)
+- **Organization & Administration** — managing documentation, communication, and event workflows
+
+I enjoy working on projects where I can combine technical thinking, visual design, and structured problem-solving.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ What I Do
 
-<p align="left">
-  <!-- Languages & Frameworks -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <br/>
-  <!-- Design & Workflow -->
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
-</p>
+- **Product & Design:** UI/UX Design, User-Centered Design, Prototyping (Figma), Graphic Design (Certified by Kemnaker RI)[cite: 3, 4]
+- **Technology & Frontend:** Web Development, HTML5, CSS3, Flutter / Dart, Git & GitHub, VS Code
+- **Organization & Management:** Event Workflow, Document Administration, Team Coordination
+
+---
+
+### 💼 Featured Projects
+
+🎵 **Moodify — Music Player App**
+*UI/UX Design & Frontend Development · Flutter · Figma*
+- Minimalist mobile music player application designed based on user moods.
+- Focused on clean navigation, smooth transitions, and a distraction-free interface.
+- [View Repository](#) | [Figma Prototype](#)
+
+🌐 **Personal Portfolio Website**
+*Frontend Development · HTML / CSS · GitHub Pages*
+- Personal web portfolio built using clean code structure and hosted publicly via GitHub Pages.
+- [View Live Demo](#)
+
+---
+
+### 🏆 Highlights & Experiences
+
+- 🎓 **Information Systems Student** — Universitas Alma Ata[cite: 1]
+- 👥 **Secretary** — HIMSI Universitas Alma Ata (2025–Present)[cite: 1]
+- 🎨 **Certified Intermediate Graphic Designer** — Kementerian Ketenagakerjaan RI (2024)[cite: 3, 4]
+- 🤝 **Social Community Division Member** — HIMSI UAA (2024–2025)[cite: 1]
 
 ---
 
