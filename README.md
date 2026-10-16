@@ -4,6 +4,8 @@
 
 > **System Information Student | UI/UX & Frontend Enthusiast**
 
+---
+
 </div>
 
 ### About Me
