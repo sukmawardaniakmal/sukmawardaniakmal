@@ -4,7 +4,7 @@
 
 </div>
 
-### 🚀 About Me
+### About Me
 
 I'm an Information Systems student at Universitas Alma Ata[cite: 1] with an interest in building digital products from idea to implementation.
 
@@ -43,10 +43,10 @@ I enjoy working on projects where I can combine technical thinking, visual desig
 
 ### 🏆 Highlights & Experiences
 
-- 🎓 **Information Systems Student** — Universitas Alma Ata[cite: 1]
-- 👥 **Secretary** — HIMSI Universitas Alma Ata (2025–Present)[cite: 1]
-- 🎨 **Certified Intermediate Graphic Designer** — Kementerian Ketenagakerjaan RI (2024)[cite: 3, 4]
-- 🤝 **Social Community Division Member** — HIMSI UAA (2024–2025)[cite: 1]
+- **Information Systems Student** — Universitas Alma Ata[cite: 1]
+- **Secretary** — HIMSI Universitas Alma Ata (2025–Present)[cite: 1]
+- **Certified Intermediate Graphic Designer** — Kementerian Ketenagakerjaan RI (2024)[cite: 3, 4]
+- **Social Community Division Member** — HIMSI UAA (2024–2025)[cite: 1]
 
 ---
 
