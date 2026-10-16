@@ -2,7 +2,7 @@
 
 # Moh. Akmal Sukma Wardani
 
-> **System Information Student | UI/UX & Frontend Enthusiast**
+**System Information Student | UI/UX & Frontend Enthusiast**
 
 ---
 
