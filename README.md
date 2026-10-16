@@ -1,6 +1,10 @@
-# Hi 👋, I'm Moh. Akmal Sukma Wardani
+<div align="center">
+
+# Moh. Akmal Sukma Wardani
 
 > **System Information Student | UI/UX & Frontend Enthusiast**
+
+</div>
 
 ---
 
