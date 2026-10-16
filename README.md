@@ -1,8 +1,8 @@
-<div align="center">
+# Hi 👋, I'm Moh. Akmal Sukma Wardani
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,40&height=180&section=header&text=Hi%2C%20I'm%20Akmal%20Sukma&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=System%20Information%20Student%20%7C%20UI%2FUX%20%26%20Frontend%20Dev&descSize=15&descColor=94a3b8" width="100%" />
+> **System Information Student | UI/UX & Frontend Enthusiast**
 
-</div>
+---
 
 ### About Me
 
