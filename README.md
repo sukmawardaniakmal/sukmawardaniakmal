@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 ### About Me
 
 I'm an Information Systems student at Universitas Alma Ata[cite: 1] with an interest in building digital products from idea to implementation.
